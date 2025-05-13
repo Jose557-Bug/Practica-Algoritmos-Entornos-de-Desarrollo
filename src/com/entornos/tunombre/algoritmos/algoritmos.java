@@ -2,7 +2,6 @@ package com.entornos.tunombre.algoritmos;
 
 public abstract class algoritmos {
     
-    
     public static int fibonacci(int num) {
         if (num < 0) {
             throw new IllegalArgumentException("El número tiene que ser mayor o igual a 0");
@@ -21,7 +20,6 @@ public abstract class algoritmos {
         return siguiente;
     }
 
-    
     public static long factorial(int num) {
         if (num < 0) {
             throw new IllegalArgumentException("El número tiene que ser mayor o igual a 0");
@@ -35,7 +33,6 @@ public abstract class algoritmos {
         return resultado;
     }
 
-    
     public static boolean primo(int num) {
         if (num < 2) {
             throw new IllegalArgumentException("El número tiene que ser mayor o igual a 2");
