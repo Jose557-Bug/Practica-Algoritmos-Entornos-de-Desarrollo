@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.entornos.tunombre.algoritmos","l":"com.entornos.tunombre.algoritmos"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.entornos.tunombre.algoritmos"}];updateSearchResults();
